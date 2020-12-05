@@ -5,3 +5,6 @@
 3. Expert, Paul, et al. "Uncovering space-independent communities in spatial networks." *Proceedings of the National Academy of Sciences* 108.19 (2011): 7663-7668.
 4. Comber, Alexis J., Chris F. Brunsdon, and Carson JQ Farmer. "Community detection in spatial networks: Inferring land use from a planar graph of land cover objects." *International Journal of Applied Earth Observation and Geoinformation* 18 (2012): 274-282.
 5. Austwick, Martin Zaltz, et al. "The structure of spatial networks and communities in bicycle sharing systems." *PloS one* 8.9 (2013): e74685.
+
+## Links
+- https://mggg.org/metagraph/
