@@ -7,6 +7,8 @@
 5. Austwick, Martin Zaltz, et al. "The structure of spatial networks and communities in bicycle sharing systems." *PloS one* 8.9 (2013): e74685.
 
 ## Links
-- https://mggg.org/metagraph/
-- https://mggg.org/code
-- https://mggg.org/data
+- Gridlandia https://mggg.org/metagraph/
+- MGGG code libraries https://mggg.org/code
+- MGGG provided data https://mggg.org/data
+- The Known Sizes of Grid Metagraphs https://mggg.org/table
+- Statewide Shapefile for Ohio: Precincts 2016 https://github.com/mggg/ohio-precincts
