@@ -8,3 +8,5 @@
 
 ## Links
 - https://mggg.org/metagraph/
+- https://mggg.org/code
+- https://mggg.org/data
