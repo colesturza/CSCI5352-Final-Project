@@ -12,3 +12,4 @@
 - MGGG provided data https://mggg.org/data
 - The Known Sizes of Grid Metagraphs https://mggg.org/table
 - Statewide Shapefile for Ohio: Precincts 2016 https://github.com/mggg/ohio-precincts
+- https://github.com/konstantinklemmer/bikecommclust
