@@ -7,6 +7,7 @@
 5. Austwick, Martin Zaltz, et al. "The structure of spatial networks and communities in bicycle sharing systems." *PloS one* 8.9 (2013): e74685.
 6. Sarzynska, Marta, et al. "Null models for community detection in spatially embedded, temporal networks." *Journal of Complex Networks* 4.3 (2016): 363-406.
 7. Coscia, Michele, and Ricardo Hausmann. "Evidence that calls-based and mobility networks are isomorphic." *PloS one* 10.12 (2015): e0145091.
+8. Munoz-Mendez, Fernando, et al. "Community structures, interactions and dynamics in London's bicycle sharing network." *Proceedings of the 2018 ACM International Joint Conference and 2018 International Symposium on Pervasive and Ubiquitous Computing and Wearable Computers.* 2018.
 
 ## Links
 - Gridlandia https://mggg.org/metagraph/
