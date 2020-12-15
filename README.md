@@ -1,7 +1,8 @@
 # CSCI5352-Final-Project
 
 In this project we chose to look at different methods of partitioning spatial networks into communities. The two major techniques we examined 
-were alternative modularity null models and the infomap algorithm.
+were alternative modularity null models and the infomap algorithm. We then used this information to explore how it could be ablied to creating voting 
+districts at the state level. 
 
 ## Abstract
 
